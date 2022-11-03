@@ -4,3 +4,7 @@ Add a markdown code snippet on line 2
 Test Data
 
 Add a secomd markdown comment on line 6
+
+Fix Rate Test
+-------------
+Add a fix rate markdown comment on line 10
