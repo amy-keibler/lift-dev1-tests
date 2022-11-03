@@ -4,4 +4,3 @@ Add a markdown code snippet on line 2
 Test Data
 
 Add a secomd markdown comment on line 6
-Add a second markdown code snippet on line 7
