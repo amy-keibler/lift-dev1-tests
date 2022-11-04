@@ -8,3 +8,5 @@ Add a secomd markdown comment on line 6
 Fix Rate Test
 -------------
 Add a fix rate markdown comment on line 10
+Add a fix rate markdown comment on line 11
+Add a fix rate markdown comment on line 12
